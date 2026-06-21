@@ -9,6 +9,7 @@ import qrcode as qrcode_lib
 import requests
 import yt_dlp
 
+
 COOKIE_FILE = "bili_cookies.json"
 
 class BiliPureRecorderApp:
